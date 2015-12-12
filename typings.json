@@ -2,6 +2,6 @@
   "name": "pinkie-promise",
   "main": "index.d.ts",
   "dependencies": {
-    "es6-promise": "github:typings/typed-es6-promise#ece507e18f2adc49f2feeebb574ae49f2911725a"
+    "es6-promise": "github:typings/typed-es6-promise#9243c53f70fb4909ed7cce3094bec221b9fb6d5f"
   }
 }
